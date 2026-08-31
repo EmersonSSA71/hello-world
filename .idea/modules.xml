@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EncapsulamentoEContrucaoDeObjetos/EncapsulamentoEContrucaoDeObjetos.iml" filepath="$PROJECT_DIR$/EncapsulamentoEContrucaoDeObjetos/EncapsulamentoEContrucaoDeObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturasDeRepeticao/EstruturasDeRepeticao.iml" filepath="$PROJECT_DIR$/EstruturasDeRepeticao/EstruturasDeRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matriz/Matriz.iml" filepath="$PROJECT_DIR$/Matriz/Matriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrientacaoAObjetos1/OrientacaoAObjetos1.iml" filepath="$PROJECT_DIR$/OrientacaoAObjetos1/OrientacaoAObjetos1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/avancado-laco-e-controle-de-fluxo/avancado-laco-e-controle-de-fluxo.iml" filepath="$PROJECT_DIR$/avancado-laco-e-controle-de-fluxo/avancado-laco-e-controle-de-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-e-hora/data-e-hora.iml" filepath="$PROJECT_DIR$/data-e-hora/data-e-hora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memoria/memoria.iml" filepath="$PROJECT_DIR$/memoria/memoria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiro-projeto-reserva-de-hotel/primeiro-projeto-reserva-de-hotel.iml" filepath="$PROJECT_DIR$/primeiro-projeto-reserva-de-hotel/primeiro-projeto-reserva-de-hotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto-comparacao-numeros/projeto-comparacao-numeros.iml" filepath="$PROJECT_DIR$/projeto-comparacao-numeros/projeto-comparacao-numeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projetos-java-para-avaliacao.iml" filepath="$PROJECT_DIR$/.idea/projetos-java-para-avaliacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursividade-E-Programacao-Dinâmica/recursividade-E-Programacao-Dinâmica.iml" filepath="$PROJECT_DIR$/recursividade-E-Programacao-Dinâmica/recursividade-E-Programacao-Dinâmica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetores/vetores.iml" filepath="$PROJECT_DIR$/vetores/vetores.iml" />
+    </modules>
+  </component>
+</project>
